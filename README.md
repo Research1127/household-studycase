@@ -1,2 +1,2 @@
-# household-studycase
-This is analysis for Household and Property study case.
+# Household-study-case
+This is an analysis of the Household and Property study case.
